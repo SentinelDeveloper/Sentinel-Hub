@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SentinelDeveloper/SentinelFunctions/main/What'sVariables", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SentinelDeveloper/SentinelHubV3/main/MainLoaderV3"))()
