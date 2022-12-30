@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SentinelDeveloper/SentinelHubV3/main/MainLoaderV3"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SentinelDeveloper/Sentinel-X/main/Authentication%20Checker", true))()
